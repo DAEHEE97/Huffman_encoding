@@ -1,12 +1,6 @@
 # [Huffman_coding](https://github.com/DAEHEE97/Huffman_encoding/blob/main/Huffman_coding.ipynb)
 
 
-## 데이터 크롤링 api 설치
-
-```
-!pip install --upgrade pip
-!pip install wikipedia-api
-```
 
 ## 허프만 알고리즘
 
@@ -29,3 +23,9 @@
 - Space usage after compression (in bits): 5377
 
 
+## 데이터 크롤링 api 설치
+
+```
+!pip install --upgrade pip
+!pip install wikipedia-api
+```
