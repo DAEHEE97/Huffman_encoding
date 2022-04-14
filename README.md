@@ -1,4 +1,4 @@
-# Huffman_coding
+# [Huffman_coding](https://github.com/DAEHEE97/Huffman_encoding/blob/main/Huffman_coding.ipynb)
 
 
 ## 데이터 크롤링 api 설치
@@ -28,4 +28,4 @@
 
 - Space usage after compression (in bits): 5377
 
-## [Huffman_encoding](https://github.com/DAEHEE97/Huffman_encoding/blob/main/Huffman_coding.ipynb)
+
