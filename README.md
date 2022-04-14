@@ -1,1 +1,2 @@
-# Huffman_encoding
+# Huffman_coding
+
